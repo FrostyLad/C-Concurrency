@@ -1,0 +1,3 @@
+C:/Users/brade/Desktop/2023liftAS2/cmake-build-debug/CMakeFiles/2023liftAS2.dir
+C:/Users/brade/Desktop/2023liftAS2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brade/Desktop/2023liftAS2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
